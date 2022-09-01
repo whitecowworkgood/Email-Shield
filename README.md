@@ -10,7 +10,7 @@
 
 ![tkinter](https://user-images.githubusercontent.com/112620533/187892350-15b2cf85-dda4-4893-91dd-9da003bf7cea.png)
 
-**win100toast를 활용한 사용자 알림 기능**
+**win10toast를 활용한 사용자 알림 기능**
 
 ![win10tost](https://user-images.githubusercontent.com/112620533/187892344-b7094a54-9477-4d6b-8513-fae7d4cae3da.png)
 
