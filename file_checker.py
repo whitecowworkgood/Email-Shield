@@ -12,7 +12,7 @@ import csv
 from csv import writer
 import re
 
-api_key = 'e8b735cd572c86e1b73f898221b6a7db7fdd6f5250fc53ca788aad46137da664'
+api_key = '바이러스토털의 API키를 입력하세요'
 toaster = ToastNotifier()
 
 path = os.getcwd()+"/Attachments/"
