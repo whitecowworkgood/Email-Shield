@@ -1,14 +1,27 @@
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+
+<h3 align="center"><b>:skull: Use Language :skull:</b></h3>
 </br>
 <p align="center">
+
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=PYTHON&logoColor=white">
 <img src="https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white">
+
+<h3 align="center"><b>🛠 Use Tools 🛠</b></h3>
+</br>
+<p align="center">
+
 <img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=Notepad++&logoColor=white">
 <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=VirusTotal&logoColor=white">
+
+<h3 align="center"><b>:feet: Targets :feet:</b></h3>
+</br>
+<p align="center">
+
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft Word-2B579A?style=for-the-badge&logo=Microsoft Word&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft Excel-217346?style=for-the-badge&logo=Microsoft Excel&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft Office-D83B01?style=for-the-badge&logo=Microsoft Office&logoColor=white">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+
 
 ## emailshield
 우리가 주로쓰는 이메일에서 제공하는 imap서비스를 파이썬의 imaplib 라이브러리를 활용하여 이메일 수신시 첨부파일을 검사하는 프로그램
