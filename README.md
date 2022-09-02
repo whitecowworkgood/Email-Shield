@@ -2,7 +2,9 @@
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=PYTHON&logoColor=white">
+<img src="https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white">
 <img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=Notepad++&logoColor=white">
+<img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=VirusTotal&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft Word-2B579A?style=for-the-badge&logo=Microsoft Word&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft Excel-217346?style=for-the-badge&logo=Microsoft Excel&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft Office-D83B01?style=for-the-badge&logo=Microsoft Office&logoColor=white">
