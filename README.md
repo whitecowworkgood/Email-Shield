@@ -48,7 +48,8 @@
 5. settings.xml.rels 파일이 존재하면 악성 url이 저장되어 있는 csv파일의 값과 확인
 
 ## 사용법
-python imap_connect.py
-
+  ```
+  python imap_connect.py
+  ```
 ## 추후 개선안
 XML Injection의 경우 지금은 수동으로 csv에 업데이트를 해야 한다. 서버를 두어서 서버에서 xml 주소를 자동으로 가져오는 기능과, 서버 클라이언트 통신을 통해서 자동으로 csv를 업데이트를 할 수 있게 개선할 예정
